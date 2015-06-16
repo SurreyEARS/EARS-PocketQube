@@ -1,6 +1,6 @@
 ![Project Logo](misc/images/earsqubethumb.png)
 
-The SurreyEARS foray into picosatellite development. We are using the proposed PQ60 standard from STRAS space https://docs.google.com/file/d/0BzHBLJnbHLV0aFJSSUFTRXNOb3c/edit?pli=1
+The SurreyEARS foray into picosatellite development. We are using the new PQ60 V1.1 Standard from  http://pqinfo.info
 
 See the project wiki here: http://www.surreyears.co.uk/wiki/index.php?title=EARS_PocketQube_Picosatellite
 
