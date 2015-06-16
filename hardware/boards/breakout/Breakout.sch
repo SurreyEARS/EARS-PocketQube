@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.2.0">
+<eagle version="7.0.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -1023,8 +1023,8 @@ by exp-lbrs.ulp</description>
 </libraries>
 <attributes>
 <attribute name="CNAME" value="EARS PocketQube Template"/>
-<attribute name="CREVISION" value="1.0"/>
-<attribute name="DESIGNER" value="M. Isbell &amp; L. Stant"/>
+<attribute name="CREVISION" value="0.1"/>
+<attribute name="DESIGNER" value="L. Stant"/>
 </attributes>
 <variantdefs>
 </variantdefs>
