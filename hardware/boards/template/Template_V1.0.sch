@@ -8,20 +8,20 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -30,8 +30,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -39,17 +39,17 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -420,10 +420,10 @@ by exp-lbrs.ulp</description>
 <devices>
 <device name="" package="FX8C-060P-SV(92)">
 <connects>
-<connect gate="G$1" pin="+3V3@1" pad="P$57"/>
-<connect gate="G$1" pin="+3V3@2" pad="P$58"/>
-<connect gate="G$1" pin="+3V3@3" pad="P$59"/>
-<connect gate="G$1" pin="+3V3@4" pad="P$60"/>
+<connect gate="G$1" pin="+3V3@1" pad="P$60"/>
+<connect gate="G$1" pin="+3V3@2" pad="P$59"/>
+<connect gate="G$1" pin="+3V3@3" pad="P$58"/>
+<connect gate="G$1" pin="+3V3@4" pad="P$57"/>
 <connect gate="G$1" pin="+3V3_SW1@1" pad="P$1"/>
 <connect gate="G$1" pin="+3V3_SW1@2" pad="P$2"/>
 <connect gate="G$1" pin="+3V3_SW2@1" pad="P$5"/>
@@ -432,10 +432,10 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="+3V3_SW3@2" pad="P$10"/>
 <connect gate="G$1" pin="/RST" pad="P$27"/>
 <connect gate="G$1" pin="/SS/GPIO2" pad="P$34"/>
-<connect gate="G$1" pin="BATV@1" pad="P$49"/>
-<connect gate="G$1" pin="BATV@2" pad="P$50"/>
-<connect gate="G$1" pin="BATV@3" pad="P$51"/>
-<connect gate="G$1" pin="BATV@4" pad="P$52"/>
+<connect gate="G$1" pin="BATV@1" pad="P$52"/>
+<connect gate="G$1" pin="BATV@2" pad="P$51"/>
+<connect gate="G$1" pin="BATV@3" pad="P$50"/>
+<connect gate="G$1" pin="BATV@4" pad="P$49"/>
 <connect gate="G$1" pin="BATV_SW1@1" pad="P$13"/>
 <connect gate="G$1" pin="BATV_SW1@2" pad="P$14"/>
 <connect gate="G$1" pin="BATV_SW2@1" pad="P$17"/>
@@ -457,20 +457,20 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="GPIO9" pad="P$41"/>
 <connect gate="G$1" pin="MISO" pad="P$32"/>
 <connect gate="G$1" pin="MOSI" pad="P$31"/>
-<connect gate="G$1" pin="RTN_+3V3@1" pad="P$53"/>
-<connect gate="G$1" pin="RTN_+3V3@2" pad="P$54"/>
-<connect gate="G$1" pin="RTN_+3V3@3" pad="P$55"/>
-<connect gate="G$1" pin="RTN_+3V3@4" pad="P$56"/>
+<connect gate="G$1" pin="RTN_+3V3@1" pad="P$56"/>
+<connect gate="G$1" pin="RTN_+3V3@2" pad="P$55"/>
+<connect gate="G$1" pin="RTN_+3V3@3" pad="P$54"/>
+<connect gate="G$1" pin="RTN_+3V3@4" pad="P$53"/>
 <connect gate="G$1" pin="RTN_+3V3_SW1@1" pad="P$3"/>
 <connect gate="G$1" pin="RTN_+3V3_SW1@2" pad="P$4"/>
 <connect gate="G$1" pin="RTN_+3V3_SW2@1" pad="P$7"/>
 <connect gate="G$1" pin="RTN_+3V3_SW2@2" pad="P$8"/>
 <connect gate="G$1" pin="RTN_+3V3_SW3@1" pad="P$11"/>
 <connect gate="G$1" pin="RTN_+3V3_SW3@2" pad="P$12"/>
-<connect gate="G$1" pin="RTN_BATV@1" pad="P$45"/>
-<connect gate="G$1" pin="RTN_BATV@2" pad="P$46"/>
-<connect gate="G$1" pin="RTN_BATV@3" pad="P$47"/>
-<connect gate="G$1" pin="RTN_BATV@4" pad="P$48"/>
+<connect gate="G$1" pin="RTN_BATV@1" pad="P$48"/>
+<connect gate="G$1" pin="RTN_BATV@2" pad="P$47"/>
+<connect gate="G$1" pin="RTN_BATV@3" pad="P$46"/>
+<connect gate="G$1" pin="RTN_BATV@4" pad="P$45"/>
 <connect gate="G$1" pin="RTN_BATV_SW1@1" pad="P$15"/>
 <connect gate="G$1" pin="RTN_BATV_SW1@2" pad="P$16"/>
 <connect gate="G$1" pin="RTN_BATV_SW2@1" pad="P$19"/>
@@ -494,10 +494,10 @@ by exp-lbrs.ulp</description>
 <devices>
 <device name="" package="FX8C-060S-SV(92)">
 <connects>
-<connect gate="G$1" pin="+3V3@1" pad="P$57"/>
-<connect gate="G$1" pin="+3V3@2" pad="P$58"/>
-<connect gate="G$1" pin="+3V3@3" pad="P$59"/>
-<connect gate="G$1" pin="+3V3@4" pad="P$60"/>
+<connect gate="G$1" pin="+3V3@1" pad="P$60"/>
+<connect gate="G$1" pin="+3V3@2" pad="P$59"/>
+<connect gate="G$1" pin="+3V3@3" pad="P$58"/>
+<connect gate="G$1" pin="+3V3@4" pad="P$57"/>
 <connect gate="G$1" pin="+3V3_SW1@1" pad="P$1"/>
 <connect gate="G$1" pin="+3V3_SW1@2" pad="P$2"/>
 <connect gate="G$1" pin="+3V3_SW2@1" pad="P$5"/>
@@ -506,10 +506,10 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="+3V3_SW3@2" pad="P$10"/>
 <connect gate="G$1" pin="/RST" pad="P$27"/>
 <connect gate="G$1" pin="/SS/GPIO2" pad="P$34"/>
-<connect gate="G$1" pin="BATV@1" pad="P$49"/>
-<connect gate="G$1" pin="BATV@2" pad="P$50"/>
-<connect gate="G$1" pin="BATV@3" pad="P$51"/>
-<connect gate="G$1" pin="BATV@4" pad="P$52"/>
+<connect gate="G$1" pin="BATV@1" pad="P$52"/>
+<connect gate="G$1" pin="BATV@2" pad="P$51"/>
+<connect gate="G$1" pin="BATV@3" pad="P$50"/>
+<connect gate="G$1" pin="BATV@4" pad="P$49"/>
 <connect gate="G$1" pin="BATV_SW1@1" pad="P$13"/>
 <connect gate="G$1" pin="BATV_SW1@2" pad="P$14"/>
 <connect gate="G$1" pin="BATV_SW2@1" pad="P$17"/>
@@ -531,20 +531,20 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="GPIO9" pad="P$41"/>
 <connect gate="G$1" pin="MISO" pad="P$32"/>
 <connect gate="G$1" pin="MOSI" pad="P$31"/>
-<connect gate="G$1" pin="RTN_+3V3@1" pad="P$53"/>
-<connect gate="G$1" pin="RTN_+3V3@2" pad="P$54"/>
-<connect gate="G$1" pin="RTN_+3V3@3" pad="P$55"/>
-<connect gate="G$1" pin="RTN_+3V3@4" pad="P$56"/>
+<connect gate="G$1" pin="RTN_+3V3@1" pad="P$56"/>
+<connect gate="G$1" pin="RTN_+3V3@2" pad="P$55"/>
+<connect gate="G$1" pin="RTN_+3V3@3" pad="P$54"/>
+<connect gate="G$1" pin="RTN_+3V3@4" pad="P$53"/>
 <connect gate="G$1" pin="RTN_+3V3_SW1@1" pad="P$3"/>
 <connect gate="G$1" pin="RTN_+3V3_SW1@2" pad="P$4"/>
 <connect gate="G$1" pin="RTN_+3V3_SW2@1" pad="P$7"/>
 <connect gate="G$1" pin="RTN_+3V3_SW2@2" pad="P$8"/>
 <connect gate="G$1" pin="RTN_+3V3_SW3@1" pad="P$11"/>
 <connect gate="G$1" pin="RTN_+3V3_SW3@2" pad="P$12"/>
-<connect gate="G$1" pin="RTN_BATV@1" pad="P$45"/>
-<connect gate="G$1" pin="RTN_BATV@2" pad="P$46"/>
-<connect gate="G$1" pin="RTN_BATV@3" pad="P$47"/>
-<connect gate="G$1" pin="RTN_BATV@4" pad="P$48"/>
+<connect gate="G$1" pin="RTN_BATV@1" pad="P$48"/>
+<connect gate="G$1" pin="RTN_BATV@2" pad="P$47"/>
+<connect gate="G$1" pin="RTN_BATV@3" pad="P$46"/>
+<connect gate="G$1" pin="RTN_BATV@4" pad="P$45"/>
 <connect gate="G$1" pin="RTN_BATV_SW1@1" pad="P$15"/>
 <connect gate="G$1" pin="RTN_BATV_SW1@2" pad="P$16"/>
 <connect gate="G$1" pin="RTN_BATV_SW2@1" pad="P$19"/>
@@ -920,11 +920,6 @@ by exp-lbrs.ulp</description>
 <pinref part="U$2" gate="G$1" pin="+3V3_SW1@2"/>
 </segment>
 <segment>
-<wire x1="170.18" y1="137.16" x2="162.56" y2="137.16" width="0.1524" layer="91"/>
-<label x="149.86" y="137.16" size="1.778" layer="95"/>
-<pinref part="U$1" gate="G$1" pin="+3V3_SW1@1"/>
-</segment>
-<segment>
 <wire x1="170.18" y1="134.62" x2="162.56" y2="134.62" width="0.1524" layer="91"/>
 <label x="149.86" y="134.62" size="1.778" layer="95"/>
 <pinref part="U$1" gate="G$1" pin="+3V3_SW1@2"/>
@@ -1268,6 +1263,13 @@ by exp-lbrs.ulp</description>
 <pinref part="GND1" gate="1" pin="GND"/>
 <wire x1="170.18" y1="68.58" x2="165.1" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="165.1" y1="68.58" x2="165.1" y2="60.96" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="+3V3_SW1" class="0">
+<segment>
+<wire x1="170.18" y1="137.16" x2="162.56" y2="137.16" width="0.1524" layer="91"/>
+<label x="149.86" y="137.16" size="1.778" layer="95"/>
+<pinref part="U$1" gate="G$1" pin="+3V3_SW1@1"/>
 </segment>
 </net>
 </nets>

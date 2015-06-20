@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.0.0">
+<eagle version="7.2.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -420,10 +420,10 @@ by exp-lbrs.ulp</description>
 <devices>
 <device name="" package="FX8C-060P-SV(92)">
 <connects>
-<connect gate="G$1" pin="+3V3@1" pad="P$57"/>
-<connect gate="G$1" pin="+3V3@2" pad="P$58"/>
-<connect gate="G$1" pin="+3V3@3" pad="P$59"/>
-<connect gate="G$1" pin="+3V3@4" pad="P$60"/>
+<connect gate="G$1" pin="+3V3@1" pad="P$60"/>
+<connect gate="G$1" pin="+3V3@2" pad="P$59"/>
+<connect gate="G$1" pin="+3V3@3" pad="P$58"/>
+<connect gate="G$1" pin="+3V3@4" pad="P$57"/>
 <connect gate="G$1" pin="+3V3_SW1@1" pad="P$1"/>
 <connect gate="G$1" pin="+3V3_SW1@2" pad="P$2"/>
 <connect gate="G$1" pin="+3V3_SW2@1" pad="P$5"/>
@@ -432,10 +432,10 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="+3V3_SW3@2" pad="P$10"/>
 <connect gate="G$1" pin="/RST" pad="P$27"/>
 <connect gate="G$1" pin="/SS/GPIO2" pad="P$34"/>
-<connect gate="G$1" pin="BATV@1" pad="P$49"/>
-<connect gate="G$1" pin="BATV@2" pad="P$50"/>
-<connect gate="G$1" pin="BATV@3" pad="P$51"/>
-<connect gate="G$1" pin="BATV@4" pad="P$52"/>
+<connect gate="G$1" pin="BATV@1" pad="P$52"/>
+<connect gate="G$1" pin="BATV@2" pad="P$51"/>
+<connect gate="G$1" pin="BATV@3" pad="P$50"/>
+<connect gate="G$1" pin="BATV@4" pad="P$49"/>
 <connect gate="G$1" pin="BATV_SW1@1" pad="P$13"/>
 <connect gate="G$1" pin="BATV_SW1@2" pad="P$14"/>
 <connect gate="G$1" pin="BATV_SW2@1" pad="P$17"/>
@@ -457,20 +457,20 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="GPIO9" pad="P$41"/>
 <connect gate="G$1" pin="MISO" pad="P$32"/>
 <connect gate="G$1" pin="MOSI" pad="P$31"/>
-<connect gate="G$1" pin="RTN_+3V3@1" pad="P$53"/>
-<connect gate="G$1" pin="RTN_+3V3@2" pad="P$54"/>
-<connect gate="G$1" pin="RTN_+3V3@3" pad="P$55"/>
-<connect gate="G$1" pin="RTN_+3V3@4" pad="P$56"/>
+<connect gate="G$1" pin="RTN_+3V3@1" pad="P$56"/>
+<connect gate="G$1" pin="RTN_+3V3@2" pad="P$55"/>
+<connect gate="G$1" pin="RTN_+3V3@3" pad="P$54"/>
+<connect gate="G$1" pin="RTN_+3V3@4" pad="P$53"/>
 <connect gate="G$1" pin="RTN_+3V3_SW1@1" pad="P$3"/>
 <connect gate="G$1" pin="RTN_+3V3_SW1@2" pad="P$4"/>
 <connect gate="G$1" pin="RTN_+3V3_SW2@1" pad="P$7"/>
 <connect gate="G$1" pin="RTN_+3V3_SW2@2" pad="P$8"/>
 <connect gate="G$1" pin="RTN_+3V3_SW3@1" pad="P$11"/>
 <connect gate="G$1" pin="RTN_+3V3_SW3@2" pad="P$12"/>
-<connect gate="G$1" pin="RTN_BATV@1" pad="P$45"/>
-<connect gate="G$1" pin="RTN_BATV@2" pad="P$46"/>
-<connect gate="G$1" pin="RTN_BATV@3" pad="P$47"/>
-<connect gate="G$1" pin="RTN_BATV@4" pad="P$48"/>
+<connect gate="G$1" pin="RTN_BATV@1" pad="P$48"/>
+<connect gate="G$1" pin="RTN_BATV@2" pad="P$47"/>
+<connect gate="G$1" pin="RTN_BATV@3" pad="P$46"/>
+<connect gate="G$1" pin="RTN_BATV@4" pad="P$45"/>
 <connect gate="G$1" pin="RTN_BATV_SW1@1" pad="P$15"/>
 <connect gate="G$1" pin="RTN_BATV_SW1@2" pad="P$16"/>
 <connect gate="G$1" pin="RTN_BATV_SW2@1" pad="P$19"/>
@@ -494,10 +494,10 @@ by exp-lbrs.ulp</description>
 <devices>
 <device name="" package="FX8C-060S-SV(92)">
 <connects>
-<connect gate="G$1" pin="+3V3@1" pad="P$57"/>
-<connect gate="G$1" pin="+3V3@2" pad="P$58"/>
-<connect gate="G$1" pin="+3V3@3" pad="P$59"/>
-<connect gate="G$1" pin="+3V3@4" pad="P$60"/>
+<connect gate="G$1" pin="+3V3@1" pad="P$60"/>
+<connect gate="G$1" pin="+3V3@2" pad="P$59"/>
+<connect gate="G$1" pin="+3V3@3" pad="P$58"/>
+<connect gate="G$1" pin="+3V3@4" pad="P$57"/>
 <connect gate="G$1" pin="+3V3_SW1@1" pad="P$1"/>
 <connect gate="G$1" pin="+3V3_SW1@2" pad="P$2"/>
 <connect gate="G$1" pin="+3V3_SW2@1" pad="P$5"/>
@@ -506,10 +506,10 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="+3V3_SW3@2" pad="P$10"/>
 <connect gate="G$1" pin="/RST" pad="P$27"/>
 <connect gate="G$1" pin="/SS/GPIO2" pad="P$34"/>
-<connect gate="G$1" pin="BATV@1" pad="P$49"/>
-<connect gate="G$1" pin="BATV@2" pad="P$50"/>
-<connect gate="G$1" pin="BATV@3" pad="P$51"/>
-<connect gate="G$1" pin="BATV@4" pad="P$52"/>
+<connect gate="G$1" pin="BATV@1" pad="P$52"/>
+<connect gate="G$1" pin="BATV@2" pad="P$51"/>
+<connect gate="G$1" pin="BATV@3" pad="P$50"/>
+<connect gate="G$1" pin="BATV@4" pad="P$49"/>
 <connect gate="G$1" pin="BATV_SW1@1" pad="P$13"/>
 <connect gate="G$1" pin="BATV_SW1@2" pad="P$14"/>
 <connect gate="G$1" pin="BATV_SW2@1" pad="P$17"/>
@@ -531,20 +531,20 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="GPIO9" pad="P$41"/>
 <connect gate="G$1" pin="MISO" pad="P$32"/>
 <connect gate="G$1" pin="MOSI" pad="P$31"/>
-<connect gate="G$1" pin="RTN_+3V3@1" pad="P$53"/>
-<connect gate="G$1" pin="RTN_+3V3@2" pad="P$54"/>
-<connect gate="G$1" pin="RTN_+3V3@3" pad="P$55"/>
-<connect gate="G$1" pin="RTN_+3V3@4" pad="P$56"/>
+<connect gate="G$1" pin="RTN_+3V3@1" pad="P$56"/>
+<connect gate="G$1" pin="RTN_+3V3@2" pad="P$55"/>
+<connect gate="G$1" pin="RTN_+3V3@3" pad="P$54"/>
+<connect gate="G$1" pin="RTN_+3V3@4" pad="P$53"/>
 <connect gate="G$1" pin="RTN_+3V3_SW1@1" pad="P$3"/>
 <connect gate="G$1" pin="RTN_+3V3_SW1@2" pad="P$4"/>
 <connect gate="G$1" pin="RTN_+3V3_SW2@1" pad="P$7"/>
 <connect gate="G$1" pin="RTN_+3V3_SW2@2" pad="P$8"/>
 <connect gate="G$1" pin="RTN_+3V3_SW3@1" pad="P$11"/>
 <connect gate="G$1" pin="RTN_+3V3_SW3@2" pad="P$12"/>
-<connect gate="G$1" pin="RTN_BATV@1" pad="P$45"/>
-<connect gate="G$1" pin="RTN_BATV@2" pad="P$46"/>
-<connect gate="G$1" pin="RTN_BATV@3" pad="P$47"/>
-<connect gate="G$1" pin="RTN_BATV@4" pad="P$48"/>
+<connect gate="G$1" pin="RTN_BATV@1" pad="P$48"/>
+<connect gate="G$1" pin="RTN_BATV@2" pad="P$47"/>
+<connect gate="G$1" pin="RTN_BATV@3" pad="P$46"/>
+<connect gate="G$1" pin="RTN_BATV@4" pad="P$45"/>
 <connect gate="G$1" pin="RTN_BATV_SW1@1" pad="P$15"/>
 <connect gate="G$1" pin="RTN_BATV_SW1@2" pad="P$16"/>
 <connect gate="G$1" pin="RTN_BATV_SW2@1" pad="P$19"/>
