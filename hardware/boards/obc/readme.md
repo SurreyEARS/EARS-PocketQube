@@ -7,3 +7,5 @@ Current ideas include:
 * TI MSP430
 * Freescale Kinetis L
 * Intel Edison(!)
+
+The OBC has a STM32F103RB microcontroller
