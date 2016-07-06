@@ -2421,6 +2421,20 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,1,78.74,121.92,U$1,BATV,BATV_BUS,,,"/>
+<approved hash="104,1,78.74,124.46,U$1,BATV,BATV_BUS,,,"/>
+<approved hash="104,1,78.74,127,U$1,BATV,BATV_BUS,,,"/>
+<approved hash="104,1,78.74,129.54,U$1,BATV,BATV_BUS,,,"/>
+<approved hash="104,1,78.74,142.24,U$1,+3V3,+3V3_BUS,,,"/>
+<approved hash="104,1,78.74,144.78,U$1,+3V3,+3V3_BUS,,,"/>
+<approved hash="104,1,78.74,147.32,U$1,+3V3,+3V3_BUS,,,"/>
+<approved hash="104,1,78.74,149.86,U$1,+3V3,+3V3_BUS,,,"/>
+<approved hash="113,1,148.548,142.371,JP3,,,,,"/>
+<approved hash="113,1,217.128,142.371,JP4,,,,,"/>
+<approved hash="113,1,145.457,97.5953,SPI,,,,,"/>
+<approved hash="113,1,214.037,97.5953,I2C,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
